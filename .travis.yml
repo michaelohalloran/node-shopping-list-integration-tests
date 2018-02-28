@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: yLsHsdLF24hTaVQzVmwthSGZ5UEqsp5m2/k6XLdfMINh98FF2UR8EkU6DDAmOMfYI7FCl0o9rjpH0biA779rRValWZCcrLzJBUFM3aa6VCV5CC2UTwKG6JYf8ko3u85yafQCkOJXKrueHlwSFQHLAHONcHZ39XR1CPsoS7trBZPqF+uCC5TmGx1VWyIys3ZBmFlb/Y953c77AGD0Oebd6JAxH1n4dHCP6/ytC5LTNZfSw1PHBDeUy8DV3rGLVSL9Q2D1r84uNbnjvlE3I3Z/fPBnovn8+TlbfA2iM/aS+9lAWfw6MUe16RE6abyxrmJa8D9ArDpjqrJoL5zYBGD2+IgQ0yhz14cxa7rdpMbGXA5itRbyKqvoHznS0lyQ6AZxyuVXC0LwR/qdbyHPghKRq1jI+GXOn5yQKBWGb32z3OR36EUEYyFA26aEXjWiCgMXgBoisVdEmgsvvw6zWXIlcH8xGrLqVrKRZaHbaxhJcRQxbuCUGsSS/59HUFYZdFxaJ/hTEYPc3aeFa5LDDbv+KAas+8HxwSnOQMY6wtlOKkxXwuMZDrnSx6F/BD8svvJh4r+ng98vd9tTLtwJOsrvgbpFeNmWkQYZ5+NCTYEcRtxA2//QdfBeAVmumRgmLTDG/hdVb2+0pGTEnVCxUFWpmsN+8R7Lv7BwoqEeAd7arro=
-  app: mysterious-fjord-48541
+  app: damp-hollows-94501
   on:
     repo: mike31415/node-shopping-list-integration-tests
